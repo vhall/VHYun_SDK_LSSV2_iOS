@@ -1,1 +1,2 @@
-# VHYun_SDK_LSSV2_iOS
+# VHYun_SDK_LSS_V2_iOS
+
